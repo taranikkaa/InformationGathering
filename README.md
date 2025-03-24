@@ -1,5 +1,5 @@
-### Name:Taranikka A
-### Reg No: 212223220115
+# NAME:Taranikka A
+# Reg No: 212223220115
 
 # InformationGathering
 Information Gathering Techiques
